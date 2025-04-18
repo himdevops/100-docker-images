@@ -1,20 +1,3 @@
-
-Okay, here is the full content for your `README.md` file.
-
-**How to use this:**
-
-1.  **Copy:** Select and copy the entire text block below, starting from `# Simple Hello World Docker Image` down to `Happy Dockering!`.
-2.  **Create File:** Create a new text file in the root directory of your project.
-3.  **Name File:** Name the file exactly `README.md`.
-4.  **Paste:** Paste the copied text into this new file.
-5.  **Customize:** **IMPORTANT!** Go through the pasted text and replace all instances of:
-    *   `your-dockerhub-username` with your actual Docker Hub username.
-    *   `your-github-username` with your actual GitHub username (use **lowercase** for GHCR commands).
-    *   `your-repo-name` with the name of your GitHub repository (optional, for badges/GHCR tags).
-6.  **Save:** Save the `README.md` file.
-7.  **Commit & Push:** Add, commit, and push `README.md` (along with `app.py` and `Dockerfile`) to your GitHub repository. GitHub will automatically render it on your repository's main page.
-
-```markdown
 # Simple Hello World Docker Image
 
 [![Docker Build Status](https://img.shields.io/docker/build/your-dockerhub-username/hello-docker-world.svg?style=flat-square)](https://hub.docker.com/r/your-dockerhub-username/hello-docker-world/) <!-- Optional: Replace with your Docker Hub details if you set up automated builds -->
