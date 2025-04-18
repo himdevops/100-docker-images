@@ -12,7 +12,7 @@ Before you begin, make sure you have the following:
 ## Step-by-Step Installation
 ### Step 1: Download OrbStack
 
-1. Visit the [OrbStack website](https://orbstDownload" button to download the OrbStack installer.
+1. Visit the [OrbStack website](https://orbstack.dev" button to download the OrbStack installer.
 
 ### Step 2: Install OrbStack
 
